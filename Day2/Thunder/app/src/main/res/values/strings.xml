@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Thunder</string>
+    <string name="loginHeader">Login</string>
+    <string name="usernamePlaceholder">Username</string>
+    <string name="passwordPlaceholder">Password</string>
+    <string name="loginButtonCaption">Login</string>
+    <string name="registerButtonCaption">Register</string>
+</resources>
