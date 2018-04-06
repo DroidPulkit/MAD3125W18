@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Thunder</string>
+    <string name="LoginHeader">Login</string>
+    <string name="UserNamePlaceholder">Username</string>
+    <string name="btnLoginCaption">Login</string>
+    <string name="btnRegisterCaption">Register</string>
+    <string name="loginPlaceHolder">Login</string>
+    <string name="HomeHead">Home</string>
+    <string name="RegistrationHead">Registration</string>
+    <string name="NamePlaceHolder">Name</string>
+    <string name="PhoneHint">Phone Number</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="DOBhead">BirthDate</string>
+</resources>
